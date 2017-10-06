@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Notification</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="max_priority">Max Priority</string>
+    <string name="high_priority">High Priority</string>
+    <string name="default_priority">Default priority</string>
+    <string name="low_priority">Low Priority</string>
+    <string name="min_priority">Min Priority</string>
+    <string name="random_priority">Random Priority</string>
+    <string name="big_text">Big Text</string>
+    <string name="title">P Notifications</string>
+    <string name="old_notification">Old Notification</string>
+    <string name="big_picture">Big Picture</string>
+    <string name="inbox_type">Inbox Type</string>
+    <string name="summary_text">Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you have not found it yet, keep looking. Don not settle. As with all matters of the heart, you will know when you find it.(Steve Jobs)</string>
+    <string name="action_settings">Settings</string>
+</resources>
